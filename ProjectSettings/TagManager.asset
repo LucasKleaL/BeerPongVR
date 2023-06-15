@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RedCups
+  - PingPongBalls
+  - RedCupsDown
   layers:
   - Default
   - TransparentFX
