@@ -9,7 +9,7 @@ public class CupCollisionHandler : MonoBehaviour
 {
     public TextMeshProUGUI pointText;
     public TextMeshProUGUI pointsCounterText;
-    public int pointsCounter = 0;
+    public static int pointsCounter = 0;
 
     // Start is called before the first frame update
     void Start()
